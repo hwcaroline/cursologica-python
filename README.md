@@ -1,1 +1,1 @@
-Projeto do curso Lógica e Programação para Analista de Testes 
+Projeto do curso Lógica e Programação para Analista de Testes da TargetTrust
